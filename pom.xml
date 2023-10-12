@@ -165,7 +165,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>czosaListPipelines</mainClass>
+                            <mainClass>osaListPipes/OsaListPipelines</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                         </manifest>
